@@ -1,0 +1,30 @@
+File: dataset_functional (txt file)
+
+Contents overview: Survey and literature data on functional variables of birds in the Caatinga region, Northeast Brazil. Data source: Wilman, H., Belmaker, J., Simpson, J., Rosa, C., Rivadeneira, M.M., and Jetz, W., (2014). Species-level foraging attributes of the world’s birds and mammals, Ecol., 95: 2027-2027. https://doi.org/10.1890/13-1917.1.
+
+Táxon name: taxa with species name, family, and authors of description. 
+ForStrat ground: Percentage of foraging strata in the ground used by birds. 
+ForStrat understory: Percentage of foraging strata in the understory used by birds. 
+ForStrat midhigh: Percentage of foraging strata in the midhigh used by birds. 
+ForStrat canopy: Percentage of foraging strata in the canopy used by birds. 
+ForStrat aerial: Percentage of foraging strata in the aerial used by birds. 
+ForStrat water: Percentage of foraging strata in the water used by birds. 
+Dietvert: Percentage of bird diet based on vertebrates.
+DietInv: Percentage of bird diet based on invertebrates. 
+Diet Plant: Percentage of bird diet based on plants. 
+Dietfruit: Percentage of bird diet based on fruits. 
+Dietseed: Percentage of bird diet based on seeds. 
+Dietnect: Percentage of bird diet based on nectar.
+Diet Scav: Percentage of bird diet based on decaying material.
+Body Mass (g): Average of the body mass of birds based on literature. 
+
+File: dataset_landscape (txt file)
+
+Plot: Sampling units were identified by the three study areas with 9 hectares. AL: PPN Faz. Almas; SJ: Estação Experimental de São João do Cariri; SP: Faz. São Paulo dos Dantas.
+Compl.plot: landscape metric of Complexity: the complexity of the plot.
+Compo.nat: landscape metric of composition of natural cover areas of the plot. 
+Conf.nat: landscape metric of the configuration of natural cover areas of the plot. 
+____________________________________________________________________________
+File: Script_R _15-07-25 (HTML document, R script)
+
+Contents overview: Codes and results to perform a functional diversity, GLMs and PCoA analysis between landscape complexity, composition of natural cover, and configuration of natural cover areas for bird species diversity. For this analysis, the dataset_functional and dataset_landscape dataset was used. The result is Figures 2 and 3, and Table 1.

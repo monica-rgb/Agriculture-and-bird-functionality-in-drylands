@@ -1,0 +1,225 @@
+Táxon name	ForStrat  ground	ForStrat understory	ForStrat  midhigh	ForStrat canopy	ForStrat areial	ForStrat water	Diet 
+vert	Diet 
+Inv	Diet Plant	Diet 
+fruit	Diet 
+seed	Diet 
+nect	Diet Scav	Body Mass (g)
+Tinamidae Gray, 1840														
+Crypturellus parvirostris (Wagler, 1827)	100	0	0	0	0	0	0	40	0	0	60	0	0	200
+Crypturellus tataupa (Temminck, 1815)	50	50	0	0	0	0	0	50	20	0	30	0	0	219
+Nothura boraquira (Spix, 1825)	100	0	0	0	0	0	0	40	0	20	40	0	0	283
+Nothura maculosa (Temminck, 1815)	100	0	0	0	0	0	0	40	0	30	30	0	0	190
+Anhingidae Reichenbach, 1849														
+Anhinga anhinga (Linnaeus, 1766)	0	0	0	0	0	100	80	20	0	0	0	0	0	1235
+Anatidae Leach, 1820														
+Dendrocygna viduata (Linnaeus, 1766)	0	0	0	0	0	100	0	30	40	10	20	0	0	690
+Dendrocygna autumnalis (Linnaeus, 1758)	50	0	0	0	0	50	0	10	90	0	0	0	0	733.5
+Sarkidiornis sylvicola Ihering & Ihering, 1907	50	0	0	0	0	50	0	30	40	0	30	0	0	2610
+Anas bahamensis Linnaeus, 1758	0	0	0	0	0	100	0	0	70	0	30	0	0	518.5
+Cracidae Rafinesque, 1815														
+Penelope jacucaca Spix, 1825	20	0	40	40	0	0	0	0	20	80	0	0	0	1282
+Podicipedidae Bonaparte, 1831														
+Tachybaptus dominicus (Linnaeus, 1766)	0	0	0	0	0	100	20	70	10	0	0	0	0	130.5
+Podilymbus podiceps (Linnaeus, 1758)	0	0	0	0	0	100	30	70	0	0	0	0	0	416
+Columbidae Leach, 1820														
+Patagioenas picazuro (Temminck, 1813)	30	30	30	10	0	0	0	10	30	30	30	0	0	279
+Patagioenas cayennensis (Bonnaterre, 1792)	20	0	40	40	0	0	0	0	0	70	30	0	0	229
+Leptotila verreauxi Bonaparte, 1855	100	0	0	0	0	0	0	20	0	20	60	0	0	161
+Leptotila rufaxilla (Richard & Bernard, 1792)	100	0	0	0	0	0	0	10	0	10	80	0	0	157
+Zenaida auriculata (Des Murs, 1847)	20	20	40	20	0	0	0	0	0	0	100	0	0	89.3
+Claravis pretiosa (Ferrari-Perez, 1886)	100	0	0	0	0	0	0	20	0	0	80	0	0	68.2
+Columbina minuta (Linnaeus, 1766)	100	0	0	0	0	0	0	0	0	0	100	0	0	32.9
+Columbina talpacoti (Temminck, 1810)	100	0	0	0	0	0	0	10	0	0	90	0	0	46.5
+Columbina squammata (Lesson, 1831)	100	0	0	0	0	0	0	20	0	0	80	0	0	52.9
+Columbina picui (Temminck, 1813)	100	0	0	0	0	0	0	0	0	0	100	0	0	47
+Cuculidae Leach, 1820														
+Guira guira (Gmelin, 1788)	70	20	10	0	0	0	60	40	0	0	0	0	0	141
+Crotophaga ani Linnaeus, 1758	40	30	30	0	0	0	40	40	0	10	10	0	0	111
+Tapera naevia (Linnaeus, 1766)	50	30	20	0	0	0	0	100	0	0	0	0	0	52.1
+Piaya cayana (Linnaeus, 1766)	0	0	20	80	0	0	0	100	0	0	0	0	0	102
+Coccyzus melacoryphus Vieillot, 1817	50	30	20	0	0	0	0	100	0	0	0	0	0	49.9
+Nyctibiidae Chenu & Des Murs, 1851														
+Nyctibius griseus (Gmelin, 1789)	0	0	90	0	10	0	0	100	0	0	0	0	0	160
+Caprimulgidae Vigors, 1825														
+Nyctidromus albicollis (Gmelin, 1789)	40	30	20	0	10	0	0	100	0	0	0	0	0	53.2
+Nyctidromus hirundinaceus (Spix, 1825)	0	20	20	0	60	0	0	100	0	0	0	0	0	57.51
+Hydropsalis parvula (Gould, 1837)	0	60	40	0	0	0	0	100	0	0	0	0	0	37
+Hydropsalis torquata (Gmelin, 1789)	20	20	20	0	20	20	0	100	0	0	0	0	0	58.5
+Trochilidae Vigors, 1825														
+Anopetia gounellei (Boucard, 1891)	0	100	0	0	0	0	0	10	0	0	0	90	0	3
+Phaethornis ruber (Linnaeus, 1758)	0	100	0	0	0	0	0	10	0	0	0	90	0	2.4
+Chrysolampis mosquitus (Linnaeus, 1758)	0	50	30	20	0	0	0	10	0	0	0	90	0	3.9
+Anthracothorax nigricollis (Vieillot, 1817)	0	10	30	40	20	0	0	10	0	0	0	90	0	7
+Heliomaster squamosus (Temminck, 1823)	0	0	100	0	0	0	0	10	0	0	0	90	0	5.9
+Chlorostilbon lucidus (Shaw, 1812)	0	0	90	10	0	0	0	10	0	0	0	90	0	3.5
+Eupetomena macroura (Gmelin, 1788)	0	0	60	30	10	0	0	10	0	0	0	90	0	9
+Rallidae Rafinesque, 1815														
+Aramides mangle (Spix, 1825)	40	0	0	0	0	60	20	70	0	10	0	0	0	183
+Gallinula galeata (Lichtenstein, 1818)	60	20	0	0	0	20	20	20	20	20	20	0	0	305
+Jacanidae Chenu & Des Murs, 1854														
+Jacana jacana (Linnaeus, 1766)	50	0	0	0	0	50	0	60	10	0	30	0	0	129
+Ardeidae Leach, 1820														
+Tigrisoma lineatum (Boddaert, 1783)	20	0	0	0	0	80	30	70	0	0	0	0	0	813
+Nycticorax nycticorax (Linnaeus, 1758)	50	0	0	0	0	50	70	30	0	0	0	0	0	810
+Butorides striata (Linnaeus, 1758)	20	0	0	0	0	80	70	30	0	0	0	0	0	226
+Bubulcus ibis (Linnaeus, 1758)	70	0	0	0	0	30	30	60	0	0	0	0	10	366
+Ardea alba Linnaeus, 1758	30	0	0	0	0	70	80	20	0	0	0	0	0	873.5
+Egretta thula (Molina, 1782)	30	0	0	0	0	70	50	50	0	0	0	0	0	371
+Cathartidae Lafresnaye, 1839														
+Coragyps atratus (Bechstein, 1793)	100	0	0	0	0	0	0	0	0	0	0	0	100	1640
+Cathartes aura (Linnaeus, 1758)	100	0	0	0	0	0	0	0	0	0	0	0	100	1430
+Cathartes burrovianus Cassin, 1845	100	0	0	0	0	0	0	0	0	0	0	0	100	935
+Charadriidae Leach, 1820	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Vanellus chilensis (Molina, 1782)	80	0	0	0	0	20	10	90	0	0	0	0	0	327
+Accipitridae Vigors, 1824														
+Gampsonyx swainsonii Vigors, 1825	100	0	0	0	0	0	90	10	0	0	0	0	0	92.9
+Geranospiza caerulescens (Vieillot, 1817)	20	30	50	0	0	0	70	30	0	0	0	0	0	303.5
+Heterospizias meridionalis (Latham, 1790)	100	0	0	0	0	0	80	20	0	0	0	0	0	808
+Rupornis magnirostris (Gmelin, 1788)	33	33	33	0	0	0	60	40	0	0	0	0	0	269
+Parabuteo unicinctus (Temminck, 1824)	100	0	0	0	0	0	100	0	0	0	0	0	0	844
+Geranoaetus melanoleucus (Vieillot, 1819)	100	0	0	0	0	0	100	0	0	0	0	0	0	2445
+Buteo brachyurus Vieillot, 1816	0	0	0	80	20	0	100	0	0	0	0	0	0	502.5
+Buteo albonotatus Kaup, 1847	50	20	30	0	0	0	100	0	0	0	0	0	0	757
+Tytonidae Mathews, 1912														
+Tyto furcata (Temminck, 1827)	90	10	0	0	0	0	90	10	0	0	0	0	0	350
+Strigidae Leach, 1820														
+Megascops choliba (Vieillot, 1817)	40	50	0	0	10	0	10	90	0	0	0	0	0	132
+Glaucidium brasilianum (Gmelin, 1788)	60	20	20	0	0	0	40	60	0	0	0	0	0	70.7
+Athene cunicularia (Molina, 1782)	80	10	10	0	0	0	80	20	0	0	0	0	0	150
+Asio clamator (Vieillot, 1808)	70	10	20	0	0	0	80	20	0	0	0	0	0	445
+Alcedinidae Rafinesque, 1815														
+Megaceryle torquata (Linnaeus, 1766)	10	0	0	0	0	90	80	20	0	0	0	0	0	317
+Chloroceryle americana (Gmelin, 1788)	10	10	0	0	0	80	60	40	0	0	0	0	0	37.5
+Galbulidae Vigors, 1825														
+Galbula ruficauda Cuvier, 1816	0	50	50	0	0	0	0	100	0	0	0	0	0	26.5
+Bucconidae Horsfield, 1821														
+Nystalus maculatus (Gmelin, 1788)	33	33	33	0	0	0	10	90	0	0	0	0	0	42
+Picidae Leach, 1820														
+Picumnus limae Snethlage, 1924	0	40	30	30	0	0	0	100	0	0	0	0	0	11.3
+Veniliornis passerinus (Linnaeus, 1766)	0	33	33	33	0	0	0	100	0	0	0	0	0	32.1
+Dryocopus lineatus (Linnaeus, 1766)	20	20	60	0	0	0	0	80	0	10	10	0	0	183.5
+Piculus chrysochloros (Vieillot, 1818)	0	0	60	40	0	0	0	100	0	0	0	0	0	88
+Colaptes melanochloros (Gmelin, 1788)	0	50	50	0	0	0	0	80	0	10	0	10	0	127
+Falconidae Leach, 1820														
+Herpetotheres cachinnans (Linnaeus, 1758)	33	33	33	0	0	0	100	0	0	0	0	0	0	625
+Micrastur ruficollis (Vieillot, 1817)	40	30	30	0	0	0	100	0	0	0	0	0	0	178.5
+Micrastur semitorquatus (Vieillot, 1817)	50	30	20	0	0	0	100	0	0	0	0	0	0	631
+Caracara plancus (Miller, 1777)	100	0	0	0	0	0	0	20	20	0	0	0	60	1348
+Falco sparverius Linnaeus, 1758	50	40	10	0	0	0	40	60	0	0	0	0	0	147
+Falco femoralis Temminck, 1822	30	30	20	10	10	0	50	50	0	0	0	0	0	343.5
+Psittacidae Rafinesque, 1815														
+Amazona aestiva (Linnaeus, 1758)	0	30	40	30	0	0	0	0	0	50	50	0	0	451
+Forpus xanthopterygius (Spix, 1824)	100	0	0	0	0	0	0	0	0	50	50	0	0	31
+Eupsittula cactorum (Kuhl, 1820)	0	50	50	0	0	0	0	0	70	0	30	0	0	139.2
+Thamnophilidae Swainson, 1824														
+Myrmorchilus strigilatus (Wied, 1831)	50	50	0	0	0	0	0	100	0	0	0	0	0	23
+Formicivora melanogaster Pelzeln, 1868	40	40	20	0	0	0	0	100	0	0	0	0	0	10.5
+Sakesphoroides cristatus (Wied, 1831)	30	50	20	0	0	0	0	100	0	0	0	0	0	17.7
+Thamnophilus capistratus Lesson, 1840	30	30	40	0	0	0	0	100	0	0	0	0	0	27.9
+Taraba major (Vieillot, 1816)	40	40	20	0	0	0	30	60	10	0	0	0	0	59.2
+Dendrocolaptidae Gray, 1840														
+Sittasomus griseicapillus (Vieillot, 1818)	0	0	50	50	0	0	0	90	10	0	0	0	0	18
+Dendrocolaptes platyrostris Spix, 1825	50	50	0	0	0	0	10	80	10	0	0	0	0	61.7
+Campylorhamphus trochilirostris (Lichtenstein, 1820)	0	80	20	0	0	0	10	90	0	0	0	0	0	40.8
+Lepidocolaptes angustirostris (Vieillot, 1818)	0	40	60	0	0	0	0	100	0	0	0	0	0	27.8
+Furnariidae Gray, 1840														
+Furnarius figulus (Lichtenstein, 1823)	100	0	0	0	0	0	0	100	0	0	0	0	0	28
+Cariama cristata (Linnaeus, 1766)	60	40	0	0	0	0	20	60	10	10	0	0	0	1400
+Furnarius leucopus Swainson, 1838	100	0	0	0	0	0	0	100	0	0	0	0	0	54.8
+Phacellodomus rufifrons (Wied, 1821)	70	20	10	0	0	0	0	100	0	0	0	0	0	24.6
+Pseudoseisura cristata (Spix, 1824)	100	0	0	0	0	0	0	80	20	0	0	0	0	49.5
+Certhiaxis cinnamomeus (Gmelin, 1788)	0	33	33	33	0	0	0	100	0	0	0	0	0	15.2
+Synallaxis hellmayri Reiser, 1905	50	50	0	0	0	0	0	80	0	0	20	0	0	50.5
+Synallaxis albescens Temminck, 1823	30	70	0	0	0	0	0	100	0	0	0	0	0	11.2
+Synallaxis frontalis Pelzeln, 1859	20	80	0	0	0	0	0	100	0	0	0	0	0	14
+Tityridae Gray, 1840														
+Pachyramphus polychopterus (Vieillot, 1818)	0	0	100	0	0	0	0	50	0	50	0	0	0	20.8
+Pachyramphus validus (Lichtenstein, 1823)	0	50	50	0	0	0	0	100	0	0	0	0	0	43
+Rhynchocyclidae Berlepsch, 1907														
+Tolmomyias flaviventris (Wied, 1831)	0	0	20	80	0	0	0	80	0	20	0	0	0	12.2
+Todirostrum cinereum (Linnaeus, 1766)	0	33	33	33	0	0	0	90	0	10	0	0	0	6.4
+Hemitriccus margaritaceiventer (d'Orbigny & Lafresnaye, 1837)	0	40	60	0	0	0	0	100	0	0	0	0	0	8.4
+Tyrannidae Vigors, 1825														
+Hirundinea ferruginea (Gmelin, 1788)	0	33	33	33	0	0	0	100	0	0	0	0	0	30.6
+Stigmatura napensis Chapman, 1926	0	80	20	0	0	0	0	100	0	0	0	0	0	9.8
+Euscarthmus meloryphus Wied, 1831	0	100	0	0	0	0	0	100	0	0	0	0	0	6.8
+Camptostoma obsoletum (Temminck, 1824)	0	0	80	20	0	0	0	70	0	30	0	0	0	8.1
+Elaenia flavogaster (Thunberg, 1822)	0	20	40	30	10	0	0	50	0	50	0	0	0	24.8
+Elaenia spectabilis Pelzeln, 1868	0	0	0	100	0	0	0	50	0	50	0	0	0	27.3
+Elaenia chilensis Hellmayr, 1927	0	0	100	0	0	0	0	50	0	50	0	0	0	89
+Elaenia cristata Pelzeln, 1868	0	30	40	30	0	0	0	50	0	50	0	0	0	18.2
+Myiopagis viridicata (Vieillot, 1817)	0	0	50	50	0	0	0	60	0	20	20	0	0	12.3
+Phaeomyias murina (Spix, 1825)	0	33	33	33	0	0	0	60	0	40	0	0	0	10
+Phyllomyias fasciatus (Thunberg, 1822)	0	0	0	100	0	0	0	80	0	20	0	0	0	10.3
+Myiarchus tyrannulus (Statius Muller, 1776)	20	80	0	0	0	0	0	70	10	20	0	0	0	28.7
+Casiornis fuscus Sclater & Salvin, 1873	0	40	30	30	0	0	0	100	0	0	0	0	0	19.5
+Pitangus sulphuratus (Linnaeus, 1766)	50	40	10	0	0	0	30	40	0	30	0	0	0	61
+Machetornis rixosa (Vieillot, 1819)	100	0	0	0	0	0	0	100	0	0	0	0	0	29.6
+Myiodynastes maculatus (Statius Muller, 1776)	0	0	100	0	0	0	30	40	0	30	0	0	0	43.2
+Megarynchus pitangua (Linnaeus, 1766)	0	10	50	40	0	0	10	70	0	10	10	0	0	63.4
+Myiozetetes similis (Spix, 1825)	20	20	40	20	0	0	10	40	0	40	10	0	0	28
+Tyrannus melancholicus Vieillot, 1819	0	0	50	50	0	0	0	100	0	0	0	0	0	37.4
+Empidonomus varius (Vieillot, 1818)	0	30	70	0	0	0	0	60	0	40	0	0	0	27.1
+Sublegatus modestus (Wied, 1831)	0	50	50	0	0	0	0	100	0	0	0	0	0	14
+Arundinicola leucocephala (Linnaeus, 1764)	50	50	0	0	0	0	0	100	0	0	0	0	0	13.8
+Fluvicola albiventer (Spix, 1825)	60	40	0	0	0	0	0	100	0	0	0	0	0	11.6
+Fluvicola nengeta (Linnaeus, 1766)	60	40	0	0	0	0	0	100	0	0	0	0	0	21
+Myiophobus fasciatus (Statius Muller, 1776)	0	100	0	0	0	0	0	80	0	20	0	0	0	9.9
+Cnemotriccus fuscatus (Wied, 1831)	40	40	20	0	0	0	0	100	0	0	0	0	0	13.6
+Knipolegus nigerrimus (Vieillot, 1818)	50	50	0	0	0	0	0	100	0	0	0	0	0	20.3
+Xolmis irupero (Vieillot, 1823)	100	0	0	0	0	0	0	100	0	0	0	0	0	28.7
+Vireonidae Swainson, 1837														
+Cyclarhis gujanensis (Gmelin, 1789)	0	40	40	20	0	0	0	100	0	0	0	0	0	28.8
+Hylophilus amaurocephalus (Nordmann, 1835)	0	30	30	40	0	0	0	60	20	20	0	0	0	11.6
+Vireo chivi (Vieillot, 1817)	0	0	20	80	0	0	0	60	0	20	20	0	0	13.8
+Corvidae Leach, 1820														
+Cyanocorax cyanopogon (Wied, 1821)	10	30	30	30	0	0	0	50	0	50	0	0	0	146
+Hirundinidae Rafinesque, 1815														
+Progne tapera (Linnaeus, 1766)	0	30	20	20	30	0	0	100	0	0	0	0	0	32
+Progne chalybea (Gmelin, 1789)	20	20	20	20	20	0	0	100	0	0	0	0	0	39.9
+Tachycineta albiventer (Boddaert, 1783)	0	80	20	0	0	0	0	100	0	0	0	0	0	17.7
+Troglodytidae Swainson, 1831														
+Troglodytes musculus Naumann, 1823	0	100	0	0	0	0	0	80	20	0	0	0	0	13.4
+Cantorchilus longirostris (Vieillot, 1819)	0	80	20	0	0	0	0	100	0	0	0	0	0	21.3
+Polioptilidae Baird, 1858														
+Polioptila atricapilla (Swainson, 1831)	0	33	33	33	0	0	0	100	0	0	0	0	0	6.1
+Turdidae Rafinesque, 1815														
+Turdus leucomelas Vieillot, 1818	60	20	20	0	0	0	0	70	0	30	0	0	0	69.1
+Turdus rufiventris Vieillot, 1818	100	0	0	0	0	0	0	50	0	50	0	0	0	69.5
+Turdus amaurochalinus Cabanis, 1850	20	20	30	30	0	0	0	40	0	60	0	0	0	57.9
+Mimidae Bonaparte, 1853														
+Mimus saturninus (Lichtenstein, 1823)	100	0	0	0	0	0	0	100	0	0	0	0	0	63.7
+Passeridae Rafinesque, 1815														
+Passer domesticus (Linnaeus, 1758)	50	50	0	0	0	0	0	10	30	0	60	0	0	27.7
+Fringillidae Leach, 1820														
+Euphonia chlorotica (Linnaeus, 1766)	0	0	10	90	0	0	0	0	0	100	0	0	0	11
+Passerellidae Cabanis & Heine, 1850														
+Ammodramus humeralis (Bosc, 1792)	60	30	10	0	0	0	0	20	0	0	80	0	0	16
+Zonotrichia capensis (Statius Muller, 1776)	100	0	0	0	0	0	0	30	20	0	50	0	0	20
+Icteridae Vigors, 1825														
+Leistes superciliaris (Bonaparte, 1850)	90	10	0	0	0	0	0	40	0	20	40	0	0	45.7
+Icterus jamacaii (Gmelin, 1788)	20	50	30	0	0	0	0	50	0	20	0	30	0	43.4
+Icterus pyrrhopterus (Vieillot, 1819)	0	20	40	40	0	0	0	70	0	0	0	30	0	42.3
+Molothrus bonariensis (Gmelin, 1789)	100	0	0	0	0	0	0	70	0	0	30	0	0	50.2
+Gnorimopsar chopi (Vieillot, 1819)	60	10	30	0	0	0	0	40	10	20	30	0	0	65.9
+Agelaioides fringillarius (Spix, 1824)	50	30	20	0	0	0	0	60	0	0	40	0	0	45.2
+Chrysomus ruficapillus (Vieillot, 1819)	90	10	0	0	0	0	0	0	0	0	100	0	0	32
+Cardinalidae Ridgway, 1901														
+Cyanoloxia brissonii (Lichtenstein, 1823)	50	50	0	0	0	0	0	20	0	70	10	0	0	27.5
+Thraupidae Cabanis, 1847														
+Nemosia pileata (Boddaert, 1783)	0	30	70	0	0	0	0	100	0	0	0	0	0	16
+Compsothraupis loricata (Lichtenstein, 1819)	0	20	30	50	0	0	0	100	0	0	0	0	0	72.5
+Coereba flaveola (Linnaeus, 1758)	0	80	20	0	0	0	0	30	0	0	0	70	0	8.3
+Volatinia jacarina (Linnaeus, 1766)	100	0	0	0	0	0	0	40	10	20	30	0	0	10.2
+Coryphospingus pileatus (Wied, 1821)	0	60	40	0	0	0	0	50	0	0	50	0	0	15.3
+Tachyphonus rufus (Boddaert, 1783)	20	50	10	10	10	0	0	60	0	30	10	0	0	34.4
+Sporophila lineola (Linnaeus, 1758)	30	70	0	0	0	0	0	0	0	0	100	0	0	9.8
+Sporophila nigricollis (Vieillot, 1823)	30	70	0	0	0	0	0	20	0	0	80	0	0	9.6
+Sporophila albogularis (Spix, 1825)	50	50	0	0	0	0	0	20	0	0	80	0	0	9.7
+Thlypopsis sordida (d'Orbigny & Lafresnaye, 1837)	0	0	70	30	0	0	0	50	0	30	20	0	0	17
+Conirostrum speciosum (Temminck, 1824)	60	20	20	0	0	0	0	70	10	10	10	0	0	8.8
+Sicalis flaveola (Linnaeus, 1766)	40	60	0	0	0	0	0	0	0	0	100	0	0	19.7
+Sicalis luteola (Sparrman, 1789)	30	70	0	0	0	0	0	0	0	0	100	0	0	15.9
+Paroaria dominicana (Linnaeus, 1758)	20	80	0	0	0	0	0	60	20	20	0	0	0	33.2
+Thraupis sayaca (Linnaeus, 1766)	10	0	20	70	0	0	0	10	0	50	40	0	0	32
+Stilpnia cayana (Linnaeus, 1766)	0	30	40	30	0	0	0	10	0	90	0	0	0	18
